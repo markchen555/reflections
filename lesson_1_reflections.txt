@@ -1,0 +1,34 @@
+how did viewing a diff between two version of a file help you spot the bug?
+
+	It was helpful because it gives you direct comparasion of the difference of two file which you will know the modification you made can be improve or need to change back to previous version. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+	That way you know where was the original code and where has been modify into newer code.
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    manually choosing when you needed so that you know which part you modify and you can test that part of the code. However, if you choose auto save, it will save whenever you modify anything which will be hard to track where you did wrong. But you need to remember everytime to manually commit files otherwise it will be nothing in the server. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+	Reason why it allows to save multiple files is because you already know those file has been modfy and ready to upload so you don't need to upload each by each. 
+    
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Using git log to find the commit ID and use in git diff to find difference. Using git diff to find the differece between two files to find the changes out of thousands of code so you can save time and fix the bug. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    If you break something just redowloand from the server and compare where you did wrong so you don't scare to modify your files or use git log, git checkout and git diff to find the difference right away. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Upload my work for people to view and correct or maybe better way of doing it. 
